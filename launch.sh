@@ -1,0 +1,1 @@
+env LD_LIBRARY_PATH="`pwd`"  LD_PRELOAD="./libmy_malloc.so" ./test_malloc
